@@ -15,8 +15,6 @@
 			sculk_bone_bricks = true
 
 		[types.cut_block_type.galosphere]
-			silver_tiles = true
-			silver_panel = true
 			smooth_amethyst = true
 			smooth_allurite = true
 			smooth_lumiere = true
@@ -32,6 +30,9 @@
 			pink_salt_brick = true
 			rose_pink_salt_brick = true
 			pastel_pink_salt_brick = true
+			palladium_tiles = true
+			palladium_panel = true
+			opal_brick = true
 
 		[types.cut_block_type.bygonenether]
 			withered_blackstone = true
@@ -560,6 +561,75 @@
 		[types.cut_block_type.crabbersdelight]
 			palm = true
 
+		[types.cut_block_type.soulfulnether]
+			fright = true
+			volcanic_quartz_brick = true
+			polished_volcanic_quartz = true
+			gloomy_amber_brick = true
+
+		[types.cut_block_type.mekanismadditions]
+			black_plastic = true
+			black_plastic_glow = true
+			black_plastic_transparent = true
+			blue_plastic = true
+			blue_plastic_glow = true
+			blue_plastic_transparent = true
+			green_plastic = true
+			green_plastic_glow = true
+			green_plastic_transparent = true
+			cyan_plastic = true
+			cyan_plastic_glow = true
+			cyan_plastic_transparent = true
+			dark_red_plastic = true
+			dark_red_plastic_glow = true
+			dark_red_plastic_transparent = true
+			purple_plastic = true
+			purple_plastic_glow = true
+			purple_plastic_transparent = true
+			orange_plastic = true
+			orange_plastic_glow = true
+			orange_plastic_transparent = true
+			light_gray_plastic = true
+			light_gray_plastic_glow = true
+			light_gray_plastic_transparent = true
+			gray_plastic = true
+			gray_plastic_glow = true
+			gray_plastic_transparent = true
+			light_blue_plastic = true
+			light_blue_plastic_glow = true
+			light_blue_plastic_transparent = true
+			lime_plastic = true
+			lime_plastic_glow = true
+			lime_plastic_transparent = true
+			aqua_plastic = true
+			aqua_plastic_glow = true
+			aqua_plastic_transparent = true
+			red_plastic = true
+			red_plastic_glow = true
+			red_plastic_transparent = true
+			magenta_plastic = true
+			magenta_plastic_glow = true
+			magenta_plastic_transparent = true
+			yellow_plastic = true
+			yellow_plastic_glow = true
+			yellow_plastic_transparent = true
+			white_plastic = true
+			white_plastic_glow = true
+			white_plastic_transparent = true
+			brown_plastic = true
+			brown_plastic_glow = true
+			brown_plastic_transparent = true
+			pink_plastic = true
+			pink_plastic_glow = true
+			pink_plastic_transparent = true
+
+		[types.cut_block_type.ae2]
+			sky_stone_brick = true
+			sky_stone_small_brick = true
+			smooth_quartz = true
+			quartz_brick = true
+			quartz_pillar = true
+
 	[types.cake]
 
 		[types.cake.blue_skies]
@@ -674,6 +744,9 @@
 
 		[types.wood_type.minecraft]
 			pale_oak = true
+
+		[types.wood_type.soulfulnether]
+			fright = true
 
 	[types.leaves_type]
 
@@ -850,6 +923,9 @@
 
 		[types.leaves_type.minecraft]
 			pale_oak = true
+
+		[types.leaves_type.galosphere]
+			opal = true
 
 #Disables specific entries
 [entries]
@@ -1047,9 +1123,6 @@
 		[entries.wood_type.boatload]
 			large_boat = true
 			furnace_boat = true
-
-		[entries.wood_type.backpacked]
-			backpack_shelf = true
 
 		[entries.wood_type.villagersplus]
 			horticulturist_table = true

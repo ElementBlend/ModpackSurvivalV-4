@@ -1,0 +1,19 @@
+[
+  {"version":1},
+  "backpacked:acacia_backpack_shelf",
+  "backpacked:backpack",
+  "backpacked:birch_backpack_shelf",
+  "backpacked:cherry_backpack_shelf",
+  "backpacked:crimson_backpack_shelf",
+  "backpacked:dark_oak_backpack_shelf",
+  "backpacked:jungle_backpack_shelf",
+  "backpacked:oak_backpack_shelf",
+  "backpacked:spruce_backpack_shelf",
+  "backpacked:warped_backpack_shelf",
+  "minecraft:enchanted_book:[enchantment.backpacked.funnelling.lvl1]",
+  "minecraft:enchanted_book:[enchantment.backpacked.imbued_hide.lvl1]",
+  "minecraft:enchanted_book:[enchantment.backpacked.looted.lvl1]",
+  "minecraft:enchanted_book:[enchantment.backpacked.marksman.lvl1]",
+  "minecraft:enchanted_book:[enchantment.backpacked.repairman.lvl1]",
+  "twilightforest:uncrafting_table"
+]

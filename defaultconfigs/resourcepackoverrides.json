@@ -32,10 +32,11 @@
     "file/The Rename Compat Project.zip",
     "builtin/client/deep_aether_tooltips",
     "file/climate_rivers_language_fix_v1.0 [1.20.1].zip",
-    "file/Modded Omelet.zip",
+    "file/Modded Omelet [1-20] [161].zip",
     "builtin/client/deep_aether_emissivity", 
     "builtin/client/golden_swet_ball/DAGoldenSwetBallFixClient",
-    "Mandala_Dragon_Mount_Refreshed_1.0.zip"
+    "file/Mandala_Dragon_Mount_Refreshed_1.0.zip",
+    "file/The Brazilian Project [1.20.1-1.3.0].zip"
   ],
   "default_overrides": {
     "force_compatible": true
