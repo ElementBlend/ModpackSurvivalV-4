@@ -5,7 +5,7 @@ The official repository of Minecraft Modpack Survival V-4 for our semi-private m
 ## Setup:
 
 Minecraft: 1.20.1  
-Forge: 47.4.23  
+Forge: 47.4.28  
 Ram: It recommends using at least 10GB
 
 ## Change log:

@@ -1,6 +1,6 @@
 {
-  // This is the config for the chunk sending mod, it is mostly relevant for dedicated servers. A Tick in minecraft happens 20 times a second(20TPS),
-  // a chunk is a 16x16 block area that gets sent to the client.
+  // This is the config for the chunk sending mod, it is mostly relevant for dedicated servers.
+  // A Tick in minecraft happens 20 times a second(20TPS), a chunk is a 16x16 block area that gets sent to the client.
   "maxChunksPerTick": {
     // Maximum amount of chunks sent per tick to a player. 
     // Default: 15 (x3 in singleplayer)
@@ -8,7 +8,8 @@
   },
 
   "maxChunksPerTickAll": {
-    // Maximum amount of chunks sent per tick globally for all players(equally split, minimum 1 per tick). Reduces the network impact of multiple players joining at once.
+    // Maximum amount of chunks sent per tick globally for all players(equally split, minimum 1 per tick).
+    // Reduces the network impact of multiple players joining at once. 
     // Default: 80
     "maxChunksPerTickAll": 80
   },
@@ -20,8 +21,8 @@
   },
 
   "cacheChunkPackets": {
-    // Enables chunk packets to be re-used to send to multiple players instead of creating new ones. Especially useful for many players on a server.
-    // Disable if you're having mod compat issues,  
+    // Enables chunk packets to be re-used to send to multiple players instead of creating new ones.
+    // Especially useful for many players on a server. Disable if you're having mod compat issues,  
     // Default: true
     "cacheChunkPackets": true
   },
@@ -31,7 +32,8 @@
     // Default: enabled = true, set to false to disable this feature.
     "enabled": true,
 
-    // Sets the update interval at which itemframes send map updates to ALL players in a dimension, so reducing the update rate does reduce network traffic especially when a lot of itemframes with maps exist.
+    // Sets the update interval at which itemframes send map updates to ALL players in a dimension,
+    // so reducing the update rate does reduce network traffic especially when a lot of itemframes with maps exist.
     // Default: 100 Ticks, Vanilla: 10 Ticks
     "itemFrameMapUpdateInterval": 100,
 

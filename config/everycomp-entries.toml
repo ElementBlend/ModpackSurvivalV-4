@@ -567,6 +567,34 @@
 			polished_volcanic_quartz = true
 			gloomy_amber_brick = true
 
+		[types.cut_block_type.hybrid_aquatic]
+			white_sandstone = true
+			smooth_white_sandstone = true
+			cut_white_sandstone = true
+			red_brinestone = true
+			red_brinestone_brick = true
+			polished_red_brinestone = true
+			orange_brinestone = true
+			orange_brinestone_brick = true
+			polished_orange_brinestone = true
+			yellow_brinestone = true
+			yellow_brinestone_brick = true
+			polished_yellow_brinestone = true
+			schist = true
+			schist_brick = true
+			polished_schist = true
+			chimneystone = true
+			chimneystone_brick = true
+			polished_chimneystone = true
+			driftwood = true
+
+		[types.cut_block_type.ae2]
+			sky_stone_brick = true
+			sky_stone_small_brick = true
+			smooth_quartz = true
+			quartz_brick = true
+			quartz_pillar = true
+
 		[types.cut_block_type.mekanismadditions]
 			black_plastic = true
 			black_plastic_glow = true
@@ -622,13 +650,6 @@
 			pink_plastic = true
 			pink_plastic_glow = true
 			pink_plastic_transparent = true
-
-		[types.cut_block_type.ae2]
-			sky_stone_brick = true
-			sky_stone_small_brick = true
-			smooth_quartz = true
-			quartz_brick = true
-			quartz_pillar = true
 
 	[types.cake]
 
@@ -747,6 +768,9 @@
 
 		[types.wood_type.soulfulnether]
 			fright = true
+
+		[types.wood_type.hybrid_aquatic]
+			driftwood = true
 
 	[types.leaves_type]
 
@@ -1123,9 +1147,6 @@
 		[entries.wood_type.boatload]
 			large_boat = true
 			furnace_boat = true
-
-		[entries.wood_type.villagersplus]
-			horticulturist_table = true
 
 		[entries.wood_type.friendsandfoes]
 			beehive = true

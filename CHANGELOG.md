@@ -1,9 +1,9 @@
 # Modpack Survival V-4 Changelog
 
-## -4.0 (based on BMC4 v61)
+## -4.0 (based on BMC4 v62-hf)
 
-Forge Version: 1.20.1-47.4.23  
-Total Mods: 466
+Forge Version: 1.20.1-47.4.28  
+Total Mods: 474
 
 **Changes**
 
@@ -15,6 +15,7 @@ Total Mods: 466
 
 - Applied Energistics 2
 - Applied Energistics 2 Wireless Terminals
+- Configured
 - Ender IO
 - GuideME
 - Iron's Lib
@@ -26,8 +27,9 @@ Total Mods: 466
 - Mekanism Additions
 - Mekanism Generators
 - Mekanism Tools
+- SnAssets Library - Particles
 - Twilight Spellbooks
-- VillagersTradingPlus
+- VillagersTradingPlus*
 - Wind Spellbooks
 - [SBW] Superb Warfare
 - [SBW] SuperbWarfare Addon
@@ -44,42 +46,83 @@ Total Mods: 466
 - Blueprint
 - Chunk Sending
 - Client Sort
+- Collective
 - Colorwheel
+- Connectivity
 - Cupboard
+- Enderdragon Loot
+- Entity Culling
 - Entity Model Features
 - Entity Texture Features
 - Euphoria Patches
 - Every Compat (Wood Good)
+- Explorations
+- Fake Date
+- FallingTree
 - Farmer's Delight
 - Farsight
+- Fast IP Ping
+- Fzzy Config
 - Guard Villagers
+- Hybrid Delights
+- Inmis
 - Iris & Oculus Search
-- Just Enough Items
+- Iris/Oculus Shader Folder
+- Ixeris
+- Just Zoom
+- Loading Protection
+- Loot Integrations: Moog's Voyager, Soaring, End & Nether Structures
+- MezzConfig
 - MES - Moog's End Structures
+- MMV - Moog's Missing Villages
+- MNS - Moog's Nether Structures
 - ModernFix
 - Moog's Structure Lib
 - Moonlight Lib
 - MVS - Moog's Voyager Structures
+- Neruina - Ticking Entity Fixer
 - NBT Autocomplete
+- Not Enough Animations
 - Open Parties and Claims
-- Polymorph
+- Particle Effects
+- Platform
+- Puzzles Lib
 - Rebind Narrator
+- Server Performance - Smooth Chunk Save
+- Skin Layers 3D
 - Smooth Movement
 - Snassets Particles
+- Structure Essentials
+- Supplementaries
+- Twilight's Flavors & Delight
 - Underlay
+- Van Backport Compat
+- Villager Names
 - VillagersPlus
 - Waystones
 - Xaero's Minimap
 - Xaero's World Map
 - XaeroPlus
+- You're in Grave Dangers
 
 **Removed Mods**
 
-- Distraction Free Recipes
+- Forge Config Screens
 - Sodium/Embeddium Options Mod Compat
 
-**Updated Resource pack**
+**Updated Data packs**
 
+- Ender Dragon Loot x Advanced Netherite Compat
+- Farmer's Delight Cutting Compat
+- Supplementaries Compat
+
+**Updated Resource packs**
+
+- Armor Trim Compat
+- Beautiful Enchanted Books
+- Enchantment Descriptions Compat
+- Modded Omelet - Modern Spawn Eggs
+- The Brazilian Localization Project
 - When Dungeons Arise - Spacing Tweaks
 
 **Updated Shader pack**

@@ -1,0 +1,31 @@
+#Base damage of the solid metal cannonball
+#Range: > 0
+solidMetalCannonballBaseDamage = 20
+#Base damage of the stone cannonball
+#Range: > 0
+stoneCannonballBaseDamage = 10
+#Base damage of the incendiary cannonball
+#Range: > 0
+incendiaryCannonballBaseDamage = 16
+#Base speed of the solid metal cannonball
+#Range: 0.0 ~ 1.7976931348623157E308
+solidMetalCannonballBaseSpeed = 3.0
+#Base speed of the stone cannonball
+#Range: 0.0 ~ 1.7976931348623157E308
+stoneCannonballBaseSpeed = 3.0
+#Base speed of the incendiary cannonball
+#Range: 0.0 ~ 1.7976931348623157E308
+incendiaryCannonballBaseSpeed = 3.0
+#Perforation of the solid metal cannonball
+#Range: 0.0 ~ 1.7976931348623157E308
+solidMetalCannonballPerforation = 10.0
+#Perforation of the stone cannonball
+#Range: 0.0 ~ 1.7976931348623157E308
+stoneCannonballPerforation = 5.0
+#Perforation of the incendiary cannonball
+#Range: 0.0 ~ 1.7976931348623157E308
+incendiaryCannonballPerforation = 5.0
+#Cannon reload time, in ticks
+#Range: > 0
+reloadTime = 60
+
