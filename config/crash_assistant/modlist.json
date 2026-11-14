@@ -109,13 +109,13 @@
     "curseForgeHash": 1000930585,
     "modrinthHash": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f"
   },
-  "alltheleaks-1.1.4+1.20.1-forge.jar": {
-    "jarName": "alltheleaks-1.1.4+1.20.1-forge.jar",
+  "alltheleaks-1.1.5-1.20.1-forge.jar": {
+    "jarName": "alltheleaks-1.1.5-1.20.1-forge.jar",
     "modId": "alltheleaks",
     "name": "All The Leaks",
-    "version": "1.1.4+1.20.1-forge",
-    "curseForgeHash": 1989930310,
-    "modrinthHash": "b4935ae90526992b0c39cf2303cf36ec94a07c41"
+    "version": "1.1.5+1.20.1-forge",
+    "curseForgeHash": 3160170455,
+    "modrinthHash": "97cbda479edec6cb12a256f53635a73d182e1433"
   },
   "alternate_current-mc1.20-1.7.0.jar": {
     "jarName": "alternate_current-mc1.20-1.7.0.jar",
@@ -316,14 +316,6 @@
     "version": "1.0",
     "curseForgeHash": 978354046,
     "modrinthHash": "877520eff23f44ffc9e399f5365dc67fd74281fc"
-  },
-  "BHMenu-Forge-1.20.1-2.4.4.jar": {
-    "jarName": "BHMenu-Forge-1.20.1-2.4.4.jar",
-    "modId": "bhmenu",
-    "name": "BHMenu",
-    "version": "2.4.4",
-    "curseForgeHash": 3674084981,
-    "modrinthHash": "bb45d46fcf2213aa329c648c431d1881afea5230"
   },
   "biomemusic-1.20.1-4.1.jar": {
     "jarName": "biomemusic-1.20.1-4.1.jar",
@@ -573,21 +565,21 @@
     "curseForgeHash": 1243520454,
     "modrinthHash": "97cc669f68dbe812cb77cc3631339334fc28b877"
   },
-  "collective-1.20.1-8.73.jar": {
-    "jarName": "collective-1.20.1-8.73.jar",
+  "collective-1.20.1-8.86.jar": {
+    "jarName": "collective-1.20.1-8.86.jar",
     "modId": "collective",
     "name": "Collective",
-    "version": "8.73",
-    "curseForgeHash": 3433762123,
-    "modrinthHash": "2f6a6a793567a29841569390b551a464e4fa805a"
+    "version": "8.86",
+    "curseForgeHash": 1762949,
+    "modrinthHash": "86de515018d3bb853cf0a91c026acde748c3e29c"
   },
-  "colorwheel-forge-1.3.1-mc1.20.1.jar": {
-    "jarName": "colorwheel-forge-1.3.1-mc1.20.1.jar",
+  "colorwheel-forge-1.3.2-mc1.20.1.jar": {
+    "jarName": "colorwheel-forge-1.3.2-mc1.20.1.jar",
     "modId": "colorwheel",
     "name": "Colorwheel",
-    "version": "1.3.1+mc1.20.1",
-    "curseForgeHash": 2117585060,
-    "modrinthHash": "15969828ba6c5debb9a152edf64b42b3a8c27e1f"
+    "version": "1.3.2+mc1.20.1",
+    "curseForgeHash": 3294968541,
+    "modrinthHash": "266c1394b56251c4fd60b43dc2f8c3713e63deb1"
   },
   "comforts-forge-6.4.0+1.20.1.jar": {
     "jarName": "comforts-forge-6.4.0+1.20.1.jar",
@@ -823,6 +815,14 @@
     "curseForgeHash": 2687774497,
     "modrinthHash": "9912745e0ec510cad4211ffc0c21eb2b81a51e9d"
   },
+  "distraction_free_recipes-forge-1.2.1-1.20.1.jar": {
+    "jarName": "distraction_free_recipes-forge-1.2.1-1.20.1.jar",
+    "modId": "distraction_free_recipes",
+    "name": "Distraction Free Recipes (EMI)",
+    "version": "1.2.1",
+    "curseForgeHash": 900164350,
+    "modrinthHash": "8cb739a7b1707d535b29a01e8b7d45e31d2874c0"
+  },
   "does_it_tick-forge-1.1.4-1.20.1.jar": {
     "jarName": "does_it_tick-forge-1.1.4-1.20.1.jar",
     "modId": "does_it_tick",
@@ -975,21 +975,21 @@
     "curseForgeHash": 3100904204,
     "modrinthHash": "adcec598039ec59a805a974de9d23ff5eede8299"
   },
-  "entity_texture_features-7.2.6-1.20.1-forge.jar": {
-    "jarName": "entity_texture_features-7.2.6-1.20.1-forge.jar",
+  "entity_texture_features-7.2.7-1.20.1-forge.jar": {
+    "jarName": "entity_texture_features-7.2.7-1.20.1-forge.jar",
     "modId": "entity_texture_features",
     "name": "Entity Texture Features",
-    "version": "7.2.6",
-    "curseForgeHash": 850221643,
-    "modrinthHash": "61f8c27ea487064f674a587780f3b6f24f22a74f"
+    "version": "7.2.7",
+    "curseForgeHash": 3891498463,
+    "modrinthHash": "5a331e97045010b4851e7fc0fb8ac5184c6adcf7"
   },
-  "entityculling-forge-1.11.3-mc1.20.1.jar": {
-    "jarName": "entityculling-forge-1.11.3-mc1.20.1.jar",
+  "entityculling-forge-1.12.1-mc1.20.1.jar": {
+    "jarName": "entityculling-forge-1.12.1-mc1.20.1.jar",
     "modId": "entityculling",
     "name": "EntityCulling",
-    "version": "1.11.3",
-    "curseForgeHash": 216250924,
-    "modrinthHash": "d3c513e88ef9f5cdd7e27d17d923d4dca69c6d55"
+    "version": "1.12.1",
+    "curseForgeHash": 1321029288,
+    "modrinthHash": "571a91dc42a266a70e44b6b459f996a0f7876c29"
   },
   "EpheroLib-1.20.1-FORGE-1.2.0.jar": {
     "jarName": "EpheroLib-1.20.1-FORGE-1.2.0.jar",
@@ -1007,13 +1007,13 @@
     "curseForgeHash": 1271676245,
     "modrinthHash": "66c44811b2972871aa6855b89c45e05d509efed9"
   },
-  "everycomp-1.20-2.9.28-forge.jar": {
-    "jarName": "everycomp-1.20-2.9.28-forge.jar",
+  "everycomp-1.20-2.9.29-forge.jar": {
+    "jarName": "everycomp-1.20-2.9.29-forge.jar",
     "modId": "everycomp",
     "name": "Every Compat",
-    "version": "1.20-2.9.28",
-    "curseForgeHash": 3300892350,
-    "modrinthHash": "9bd0e105c977fcebd3aec7d59f2a46a93b189342"
+    "version": "1.20-2.9.29",
+    "curseForgeHash": 4080815707,
+    "modrinthHash": "c881f0894cf804d85d2833fc7d509f061cd9b189"
   },
   "explorations-forge-1.20.1-1.6.5.jar": {
     "jarName": "explorations-forge-1.20.1-1.6.5.jar",
@@ -1716,13 +1716,13 @@
     "curseForgeHash": 970646236,
     "modrinthHash": "79d0404f87fa066480b18c844c1e0b1c5f5475f9"
   },
-  "lithostitched-forge-1.20.1-1.4.11.jar": {
-    "jarName": "lithostitched-forge-1.20.1-1.4.11.jar",
+  "lithostitched-forge-1.20.1-1.4.12.jar": {
+    "jarName": "lithostitched-forge-1.20.1-1.4.12.jar",
     "modId": "lithostitched",
     "name": "Lithostitched",
-    "version": "1.4.11",
-    "curseForgeHash": 940772176,
-    "modrinthHash": "d1a755de84ee5d8910ff1e65e815473056e93ece"
+    "version": "1.4.12",
+    "curseForgeHash": 2029095610,
+    "modrinthHash": "c8a23f9c1975f11a8d10110aa862251a6043db78"
   },
   "lmft-1.0.4+1.20.1-forge.jar": {
     "jarName": "lmft-1.0.4+1.20.1-forge.jar",
@@ -1764,13 +1764,13 @@
     "curseForgeHash": 3137193302,
     "modrinthHash": "f185e91d40a1c12d96c176cdf635532e9b066bb3"
   },
-  "lootintegrations-1.20.1-4.7.jar": {
-    "jarName": "lootintegrations-1.20.1-4.7.jar",
+  "lootintegrations-1.20.1-4.9.jar": {
+    "jarName": "lootintegrations-1.20.1-4.9.jar",
     "modId": "lootintegrations",
     "name": "Lootintegrations mod",
-    "version": "1.20.1-4.7",
-    "curseForgeHash": 3552897390,
-    "modrinthHash": "2aa541075b8e13480db4a8021482fbffb2132337"
+    "version": "1.20.1-4.9",
+    "curseForgeHash": 2765260961,
+    "modrinthHash": "846525ef140c2e7c01cb1286265125c6f266ea3e"
   },
   "lootintegrations_moog-2.2.jar": {
     "jarName": "lootintegrations_moog-2.2.jar",
@@ -1892,13 +1892,13 @@
     "curseForgeHash": 3022957107,
     "modrinthHash": "a31b01c140372043755b7f059a675d0c55a7d154"
   },
-  "mezz_config-1.20.1-forge-0.6.10.jar": {
-    "jarName": "mezz_config-1.20.1-forge-0.6.10.jar",
+  "mezz_config-1.20.1-forge-0.7.1.jar": {
+    "jarName": "mezz_config-1.20.1-forge-0.7.1.jar",
     "modId": "mezz_config",
     "name": "MezzConfig",
-    "version": "0.6.10",
-    "curseForgeHash": 968435792,
-    "modrinthHash": "269c964f001be379c5f4673463165f7b9d6321c5"
+    "version": "0.7.1",
+    "curseForgeHash": 2253492951,
+    "modrinthHash": "10e5446b633bd264e5e61de8e115f6dac4d8062d"
   },
   "midnightlib-forge-1.9.2+1.20.1.jar": {
     "jarName": "midnightlib-forge-1.9.2+1.20.1.jar",
@@ -1948,13 +1948,13 @@
     "curseForgeHash": 3765605430,
     "modrinthHash": "e00d8db134dfa4493ba2586198b133336c56ca5c"
   },
-  "modernfix-forge-5.27.91+mc1.20.1.jar": {
-    "jarName": "modernfix-forge-5.27.91+mc1.20.1.jar",
+  "modernfix-forge-5.27.93-mc1.20.1.jar": {
+    "jarName": "modernfix-forge-5.27.93-mc1.20.1.jar",
     "modId": "modernfix",
     "name": "ModernFix",
-    "version": "5.27.91+mc1.20.1",
-    "curseForgeHash": 23412440,
-    "modrinthHash": "195d53d299a93c418c90b672c2640b4e41623f96"
+    "version": "5.27.93+mc1.20.1",
+    "curseForgeHash": 1674557126,
+    "modrinthHash": "a88e749a40778753fd2f6c649339dc1b6c572e5b"
   },
   "modpack-update-checker-1.20.1-forge-0.15.6.jar": {
     "jarName": "modpack-update-checker-1.20.1-forge-0.15.6.jar",
@@ -2012,13 +2012,13 @@
     "curseForgeHash": 2623009483,
     "modrinthHash": "10f6327a8586581bdad42515e527b4abbabbd2d0"
   },
-  "moonlight-1.20-2.16.38B-forge.jar": {
-    "jarName": "moonlight-1.20-2.16.38B-forge.jar",
+  "moonlight-1.20-2.16.39-forge.jar": {
+    "jarName": "moonlight-1.20-2.16.39-forge.jar",
     "modId": "moonlight",
     "name": "Moonlight Library",
-    "version": "1.20-2.16.38B",
-    "curseForgeHash": 3298579717,
-    "modrinthHash": "7394cf9cbc30015b50f794ae9a85aa0b18ab152b"
+    "version": "1.20-2.16.39",
+    "curseForgeHash": 3936094033,
+    "modrinthHash": "12405de298c0d6c8ba53effdc5c8f28edee3aadc"
   },
   "MouseTweaks-forge-mc1.20.1-2.25.1.jar": {
     "jarName": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
@@ -2444,14 +2444,6 @@
     "curseForgeHash": 3093354249,
     "modrinthHash": "e553c2a50dc08d7b8b2aee6da1db0dc156fe961a"
   },
-  "ServerBrowser-1.20.1-FORGE-1.3.3.jar": {
-    "jarName": "ServerBrowser-1.20.1-FORGE-1.3.3.jar",
-    "modId": "serverbrowser",
-    "name": "ServerBrowser",
-    "version": "1.3.3",
-    "curseForgeHash": 4074428384,
-    "modrinthHash": "eb9a513fcf9c34386228d12fae73f6adf5656952"
-  },
   "shieldexp-forge-1.20.1-1.3.7.jar": {
     "jarName": "shieldexp-forge-1.20.1-1.3.7.jar",
     "modId": "shieldexp",
@@ -2524,13 +2516,13 @@
     "curseForgeHash": 686306316,
     "modrinthHash": "1da0455655c0c4d6678e7ca408b78fcac69838ad"
   },
-  "smoothmovement-1.20.1-3.0.jar": {
-    "jarName": "smoothmovement-1.20.1-3.0.jar",
+  "smoothmovement-1.20.1-3.2.jar": {
+    "jarName": "smoothmovement-1.20.1-3.2.jar",
     "modId": "smoothmovement",
     "name": "smoothmovement mod",
-    "version": "1.20.1-3.0",
-    "curseForgeHash": 48075897,
-    "modrinthHash": "480848042e9722975f915c5315716e03007df271"
+    "version": "1.20.1-3.2",
+    "curseForgeHash": 956413262,
+    "modrinthHash": "89e5991b3db10153bede8c38c7584700656b7c4a"
   },
   "snassets_particles-1.0.3.jar": {
     "jarName": "snassets_particles-1.0.3.jar",
@@ -2907,13 +2899,13 @@
     "curseForgeHash": 3012256641,
     "modrinthHash": "e484d2f2556bb638c4c3da5e5542eae70035f98a"
   },
-  "villagernames-1.20.1-8.9.jar": {
-    "jarName": "villagernames-1.20.1-8.9.jar",
+  "villagernames-1.20.1-9.0.jar": {
+    "jarName": "villagernames-1.20.1-9.0.jar",
     "modId": "villagernames",
     "name": "Villager Names",
-    "version": "8.9",
-    "curseForgeHash": 1594724656,
-    "modrinthHash": "c3418c3bc7b5d41385c027b2c17cfdbe7fab231b"
+    "version": "9.0",
+    "curseForgeHash": 3028565529,
+    "modrinthHash": "be31be9378b90fe95ec3476dd91e52d581ce3f14"
   },
   "villagesandpillages-forge-2.0.0+mc1.20.1.jar": {
     "jarName": "villagesandpillages-forge-2.0.0+mc1.20.1.jar",
@@ -3162,5 +3154,167 @@
     "version": "1.0-31",
     "curseForgeHash": 2553435270,
     "modrinthHash": "8c4a8ef0444b53ff408d5b89126285031081d92f"
+  },
+  "Aether Regenerated v1.3.1.zip (resourcepack)": {
+    "jarName": "Aether Regenerated v1.3.1.zip (resourcepack)"
+  },
+  "Armor Trim Compat 1.5.zip (resourcepack)": {
+    "jarName": "Armor Trim Compat 1.5.zip (resourcepack)"
+  },
+  "backpacked_recipe_fix_datapack.zip (resourcepack)": {
+    "jarName": "backpacked_recipe_fix_datapack.zip (resourcepack)"
+  },
+  "Beautiful-Enchanted-Books-MC-1.20.X-9.0.0.zip (resourcepack)": {
+    "jarName": "Beautiful-Enchanted-Books-MC-1.20.X-9.0.0.zip (resourcepack)"
+  },
+  "Better_Modded_GUI.zip (resourcepack)": {
+    "jarName": "Better_Modded_GUI.zip (resourcepack)"
+  },
+  "BetterBetterX-v1.1-noStone.zip (resourcepack)": {
+    "jarName": "BetterBetterX-v1.1-noStone.zip (resourcepack)"
+  },
+  "BetterEndCities-BetterEndForge5-from Raijin2312.zip (resourcepack)": {
+    "jarName": "BetterEndCities-BetterEndForge5-from Raijin2312.zip (resourcepack)"
+  },
+  "BoP x FD Bark Cutting Compat.zip (resourcepack)": {
+    "jarName": "BoP x FD Bark Cutting Compat.zip (resourcepack)"
+  },
+  "climate_rivers_language_fix_v1.0 [1.20.1].zip (resourcepack)": {
+    "jarName": "climate_rivers_language_fix_v1.0 [1.20.1].zip (resourcepack)"
+  },
+  "Created Simple Storage 1.3.zip (resourcepack)": {
+    "jarName": "Created Simple Storage 1.3.zip (resourcepack)"
+  },
+  "Enchantment Descriptions Compat 1.4.zip (resourcepack)": {
+    "jarName": "Enchantment Descriptions Compat 1.4.zip (resourcepack)"
+  },
+  "fresh_waystones.zip (resourcepack)": {
+    "jarName": "fresh_waystones.zip (resourcepack)"
+  },
+  "Icon Xaero\u0027s 1.22.zip (resourcepack)": {
+    "jarName": "Icon Xaero\u0027s 1.22.zip (resourcepack)"
+  },
+  "Mandala Utopia.zip (resourcepack)": {
+    "jarName": "Mandala Utopia.zip (resourcepack)"
+  },
+  "Mandala\u0027s GUI - Dark Mode Compat 0.3.2.zip (resourcepack)": {
+    "jarName": "Mandala\u0027s GUI - Dark Mode Compat 0.3.2.zip (resourcepack)"
+  },
+  "Mandala\u0027s GUI Vanilla Crosshair.zip (resourcepack)": {
+    "jarName": "Mandala\u0027s GUI Vanilla Crosshair.zip (resourcepack)"
+  },
+  "Mandala_Dragon_Mount_Refreshed_1.0.zip (resourcepack)": {
+    "jarName": "Mandala_Dragon_Mount_Refreshed_1.0.zip (resourcepack)"
+  },
+  "Mandalas_Legacy_Gui_Background.zip (resourcepack)": {
+    "jarName": "Mandalas_Legacy_Gui_Background.zip (resourcepack)"
+  },
+  "MandalasGUI+Dakmode_1.21.8_v2.5.zip (resourcepack)": {
+    "jarName": "MandalasGUI+Dakmode_1.21.8_v2.5.zip (resourcepack)"
+  },
+  "Modded Omelet [120] [171].zip (resourcepack)": {
+    "jarName": "Modded Omelet [120] [171].zip (resourcepack)"
+  },
+  "MoreStructures-SpacingTweaks-1.20.1-2.1.56.zip (resourcepack)": {
+    "jarName": "MoreStructures-SpacingTweaks-1.20.1-2.1.56.zip (resourcepack)"
+  },
+  "NoBushyLeaves.zip (resourcepack)": {
+    "jarName": "NoBushyLeaves.zip (resourcepack)"
+  },
+  "Quark Programmer Art.zip (resourcepack)": {
+    "jarName": "Quark Programmer Art.zip (resourcepack)"
+  },
+  "Quark x FD Bark Cutting Compat.zip (resourcepack)": {
+    "jarName": "Quark x FD Bark Cutting Compat.zip (resourcepack)"
+  },
+  "Repurposed_Structures-Better_Dungeons_v5.zip (resourcepack)": {
+    "jarName": "Repurposed_Structures-Better_Dungeons_v5.zip (resourcepack)"
+  },
+  "Repurposed_Structures-Better_Strongholds_v5.zip (resourcepack)": {
+    "jarName": "Repurposed_Structures-Better_Strongholds_v5.zip (resourcepack)"
+  },
+  "Repurposed_Structures-Better_Witch_Huts_v4.zip (resourcepack)": {
+    "jarName": "Repurposed_Structures-Better_Witch_Huts_v4.zip (resourcepack)"
+  },
+  "Repurposed_Structures-Bountiful_v3.zip (resourcepack)": {
+    "jarName": "Repurposed_Structures-Bountiful_v3.zip (resourcepack)"
+  },
+  "Repurposed_Structures-Bygone_Nether_v2.zip (resourcepack)": {
+    "jarName": "Repurposed_Structures-Bygone_Nether_v2.zip (resourcepack)"
+  },
+  "Repurposed_Structures-Farmers_Delight_v6.zip (resourcepack)": {
+    "jarName": "Repurposed_Structures-Farmers_Delight_v6.zip (resourcepack)"
+  },
+  "Repurposed_Structures-Friends_And_Foes_v5.zip (resourcepack)": {
+    "jarName": "Repurposed_Structures-Friends_And_Foes_v5.zip (resourcepack)"
+  },
+  "Repurposed_Structures-Sawmill_v2.zip (resourcepack)": {
+    "jarName": "Repurposed_Structures-Sawmill_v2.zip (resourcepack)"
+  },
+  "Repurposed_Structures-VillagersPlus_v3.zip (resourcepack)": {
+    "jarName": "Repurposed_Structures-VillagersPlus_v3.zip (resourcepack)"
+  },
+  "Scaring_The_Scarecrows_1.20.1.zip (resourcepack)": {
+    "jarName": "Scaring_The_Scarecrows_1.20.1.zip (resourcepack)"
+  },
+  "SE Vanilla Consistency 1.20.1.zip (resourcepack)": {
+    "jarName": "SE Vanilla Consistency 1.20.1.zip (resourcepack)"
+  },
+  "Stay Clear V1.1 [1.20.1].zip (resourcepack)": {
+    "jarName": "Stay Clear V1.1 [1.20.1].zip (resourcepack)"
+  },
+  "Stay_True_1.20.zip (resourcepack)": {
+    "jarName": "Stay_True_1.20.zip (resourcepack)"
+  },
+  "sweety_items_20.zip (resourcepack)": {
+    "jarName": "sweety_items_20.zip (resourcepack)"
+  },
+  "The Brazilian Project [1.20.1-1.5.2].zip (resourcepack)": {
+    "jarName": "The Brazilian Project [1.20.1-1.5.2].zip (resourcepack)"
+  },
+  "The-RCP.zip (resourcepack)": {
+    "jarName": "The-RCP.zip (resourcepack)"
+  },
+  "WDA-NoFlyingStructures-OWEND-1.18.2-1.20.1.zip (resourcepack)": {
+    "jarName": "WDA-NoFlyingStructures-OWEND-1.18.2-1.20.1.zip (resourcepack)"
+  },
+  "WDA-VanillaLoot-1.18.2-1.19.2-0.0.1.zip (resourcepack)": {
+    "jarName": "WDA-VanillaLoot-1.18.2-1.19.2-0.0.1.zip (resourcepack)"
+  },
+  "Abnormals Compat 1.0.0.zip (datapack)": {
+    "jarName": "Abnormals Compat 1.0.0.zip (datapack)"
+  },
+  "AetherCompat1.0.zip (datapack)": {
+    "jarName": "AetherCompat1.0.zip (datapack)"
+  },
+  "Alex\u0027s Mobs Compat 1.0.zip (datapack)": {
+    "jarName": "Alex\u0027s Mobs Compat 1.0.zip (datapack)"
+  },
+  "CataclysmCompat1.0.zip (datapack)": {
+    "jarName": "CataclysmCompat1.0.zip (datapack)"
+  },
+  "DLxAN_1.20-1.20.1-2.zip (datapack)": {
+    "jarName": "DLxAN_1.20-1.20.1-2.zip (datapack)"
+  },
+  "Farmers\u0027s Delight Cutting Compat 1.2.zip (datapack)": {
+    "jarName": "Farmers\u0027s Delight Cutting Compat 1.2.zip (datapack)"
+  },
+  "MoogsEndStructuresIntegrated-datapack-1.20-4.7.0.zip (datapack)": {
+    "jarName": "MoogsEndStructuresIntegrated-datapack-1.20-4.7.0.zip (datapack)"
+  },
+  "Quark_Corundumless_Corundum.zip (datapack)": {
+    "jarName": "Quark_Corundumless_Corundum.zip (datapack)"
+  },
+  "QuarkCompat1.0.zip (datapack)": {
+    "jarName": "QuarkCompat1.0.zip (datapack)"
+  },
+  "Repurposed_Structures-Illager_Invasion_v2.zip (datapack)": {
+    "jarName": "Repurposed_Structures-Illager_Invasion_v2.zip (datapack)"
+  },
+  "Supplementaries Compat 1.2.zip (datapack)": {
+    "jarName": "Supplementaries Compat 1.2.zip (datapack)"
+  },
+  "VB-MobVariantCompat1.4.1.zip (datapack)": {
+    "jarName": "VB-MobVariantCompat1.4.1.zip (datapack)"
   }
 }

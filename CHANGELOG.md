@@ -3,7 +3,7 @@
 ## -4.0 (based on BMC4 v62-hf)
 
 Forge Version: 1.20.1-47.4.28  
-Total Mods: 474
+Total Mods: 472
 
 **Changes**
 
@@ -70,7 +70,9 @@ Total Mods: 474
 - Iris/Oculus Shader Folder
 - Ixeris
 - Just Zoom
+- Lithostitched
 - Loading Protection
+- Loot Integrations
 - Loot Integrations: Moog's Voyager, Soaring, End & Nether Structures
 - MezzConfig
 - MES - Moog's End Structures
@@ -107,7 +109,9 @@ Total Mods: 474
 
 **Removed Mods**
 
+- BisectHosting Server Integration Menu
 - Forge Config Screens
+- Server Browser - In Game Server Listings
 - Sodium/Embeddium Options Mod Compat
 
 **Updated Data packs**

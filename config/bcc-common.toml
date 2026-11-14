@@ -5,7 +5,7 @@
 	#Range: > 0
 	modpackProjectID = 876781
 	#The name of the modpack
-	modpackName = "Better MC [FORGE] 1.20.1"
+	modpackName = "Better Minecraft 4 (MMS Edition v-4)"
 	#The version of the modpack
 	modpackVersion = "v62"
 	#Use the metadata.json to determine the modpack version
